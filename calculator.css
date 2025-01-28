@@ -1,0 +1,33 @@
+button{
+    
+    width: 72px;
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+#min_div{
+    
+    
+    width:300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+
+}
+input {
+    width: 257px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+  }
+  #min_div div{
+    margin-top: 10px;
+  }
+  button:hover{
+    background-color: aqua;
+  }
+  button:active{
+    background-color: orchid;
+  }
